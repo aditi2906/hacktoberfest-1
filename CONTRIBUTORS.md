@@ -845,6 +845,8 @@ to explore life. Also, Python and Django Developer
 - Bio: Everything Data !
 - GitHub: [GITHAE KEVIN](https://github.com/Kevogich)
 
+
+
 #### Name: [Gabriel Obaldia](https://github.com/gobaldia)
 - Place: Uruguay
 - Bio: Full Stack Developer
@@ -2427,3 +2429,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Aditi Tripathi (https://github.com/aditi2906)
+- Place: Gurugram, Haryana, India
+- Bio: A beginner in Java
+- GitHub: [aditi2906](https://github.com/aditi2906)
